@@ -30,3 +30,5 @@ fortnite = Fortnite(api_key='FORTNITE_API_KEY')
 
 stats = fortnite.get_player_stats('player_id')
 print(stats)
+
+More?
