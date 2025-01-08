@@ -8,3 +8,7 @@
 
 # Updates : 
 0.0.5 on 08/01/2025
+
+# Bugs Resolved :
+
+Discord, GitHub and more api's...
