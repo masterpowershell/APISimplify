@@ -7,4 +7,4 @@
 # pypi: https://pypi.org/project/APISimplify/
 
 # Updates : 
-0.5 on 08/01/2025
+0.0.5 on 08/01/2025
